@@ -1,0 +1,10 @@
+﻿python=3.11-slim
+joblib
+setuptools==66.1.1
+scikit-learn==1.7.2
+pandas==2.2.2
+shap
+lightgbm==4.6.0
+fastapi
+uvicorn
+
